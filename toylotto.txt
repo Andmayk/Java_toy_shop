@@ -1,10 +1,10 @@
-Toy{id='1', name='конструктор', weight=20}
+Toy{id='3', name='кукла', weight=60}
 Toy{id='1', name='конструктор', weight=20}
 Toy{id='3', name='кукла', weight=60}
 Toy{id='3', name='кукла', weight=60}
-Toy{id='1', name='конструктор', weight=20}
+Toy{id='3', name='кукла', weight=60}
 Toy{id='2', name='робот', weight=20}
-Toy{id='1', name='конструктор', weight=20}
+Toy{id='3', name='кукла', weight=60}
 Toy{id='1', name='конструктор', weight=20}
 Toy{id='3', name='кукла', weight=60}
 Toy{id='2', name='робот', weight=20}
